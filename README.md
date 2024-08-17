@@ -1,7 +1,7 @@
 - :cloud::cloud:
 - 👋 Hi, I’m @cmbrown44
--  :computer: DevOps Apprentice - Culture, Collaboration, Automation, CI/CD, Test, Monitor. 
-- 👀 Learning code, infrastructure, autmoation. On one massive learning journey :chart_with_upwards_trend:
+-  :computer: Systems Development Engineer in the cloud
+- 👀 On going journey learning code, infrastructure, autmoation and operations. :chart_with_upwards_trend:
 - :cloud::cloud:
 
 <!---
